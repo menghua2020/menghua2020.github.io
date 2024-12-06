@@ -31,3 +31,9 @@
        - [第3节：redis多级缓存](/md/idea-plugin/redis/多级缓存.md)
        - [第4节：redis最佳实践](/md/idea-plugin/redis/Redis高级篇之最佳实践.md)
        - [第5节：redis原理](/md/idea-plugin/redis/原理篇.md)
+   - 第6章：RocketMQ
+            
+        - [第1节：RocketMQ-01](/md/idea-plugin/RocketMQ/RocketMQ-01.md)
+        - [第2节：RocketMQ-02](/md/idea-plugin/RocketMQ/RocketMQ-02.md)
+        - [第3节：RocketMQ-03](/md/idea-plugin/RocketMQ/RocketMQ-03.md)
+        
