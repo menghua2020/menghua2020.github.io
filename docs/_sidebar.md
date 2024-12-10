@@ -37,3 +37,10 @@
         - [第2节：RocketMQ-02](/md/idea-plugin/RocketMQ/RocketMQ-02.md)
         - [第3节：RocketMQ-03](/md/idea-plugin/RocketMQ/RocketMQ-03.md)
         
+   - 第6章：RocketMQ
+               
+        - [001、开篇词：JVM优化实战，广大Java工程师心中永远的痛](/md/idea-plugin/jvm/001、开篇词：JVM优化实战，广大Java工程师心中永远的痛.pdf)
+        - [002、一探究竟：我们写的Java代码到底是如何运行起来的](/md/idea-plugin/jvm/002、一探究竟：我们写的Java代码到底是如何运行起来的.pdf)
+        - [003、面试官对于JVM类加载机制的猛烈炮火，你能顶住吗](/md/idea-plugin/jvm/002、面试官对于JVM类加载机制的猛烈炮火你能顶住吗.pdf)
+   
+        
